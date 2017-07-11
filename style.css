@@ -21,6 +21,7 @@ p {
     font-size: 15px;
     margin-top: -20px;
     display:inline-block;
+    margin-left: 20px;
     }
 
 #main {
@@ -31,5 +32,9 @@ p {
     padding:40px;
 }
 i {
-    display:inline-block;
+    position: absolute;
+}
+
+#sub {
+    position: relative;
 }
